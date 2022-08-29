@@ -1,0 +1,4 @@
+#exclusion list
+.terraform*
+.terraform/*
+terraform.tfstate*

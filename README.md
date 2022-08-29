@@ -1,2 +1,5 @@
 # terrafrom-azure-base
-Terrafrom repo with Azure modules
+
+This is the base repo for all resource defined in terrafrom script
+
+
