@@ -12,8 +12,8 @@ variable "location" {
 
 variable "name" {
   type        = string
-  description = "Name of the acr unique globally"
-  default     = "titanacrkk"
+  description = "Name of the mysql db unique globally"
+  default     = "titanmysql"
 }
 
 variable "sku" {
